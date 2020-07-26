@@ -1,0 +1,5 @@
+Eel's article sentences: 53
+Eel's article questions: 9
+Eel's article questions with answer: 9
+Eel's correct answers: 6
+For this article Eel the score (correct/all_number) is: 66.67%

@@ -1,0 +1,10 @@
+ArticleTitle    Question    Answer    Answer'sComment    
+Eel   is the electric eel a true eel?   No    Not the electric eel a true eel.
+Eel   are most eels predators?   Yes    Most eels predators.
+Eel   is eel blood toxic to humans?   Yes    Eel blood toxic to humans.
+Eel   how many species of true eels are there?   True eels (anguilliformes;  ) are an order of fish, which consists of four suborders, 19 families, 110 genera and approximately 800 species.    Found in wh_questions -> Possible Wrong
+Eel   where is smoked eel considered a delicacy?   Germany netherlands denmark sweden    In northern germany , the netherlands , denmark and sweden , smoked eel is considered a delicacy .
+Eel   how do eels begin life?   Eels begin life as flat and transparent larvae , called leptocephali .    Found in wh_questions
+Eel   what types of fins do eels have?   The basque delicacy angulas consists of deep-fried elver (young eels); elver eels usually reach prices of up to 1000 euro per kilogram.    Found in wh_questions -> Possible Wrong
+Eel   what do leptocephali eat?   The european eel and other freshwater eels are eaten in europe , the united states , and other places .    Found in wh_questions
+Eel   do all eels live in fresh water?   No    Not all eels live in fresh water.

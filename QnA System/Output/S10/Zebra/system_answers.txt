@@ -1,0 +1,10 @@
+ArticleTitle    Question    Answer    Answer'sComment    
+Zebra   do the different species of zebras interbreed?   No    Not the different species of zebras interbreed.
+Zebra   do zebras sleep standing up?   Yes    Zebras sleep standing up.
+Zebra   have plains zebras been crossed with mountain zebras?   Yes    Plains zebras been crossed with mountain zebras.
+Zebra   how many species of zebra are there?   There are three species of zebra: the plains zebra, grévy's zebra and the mountain zebra.    Found in wh_questions -> Possible Wrong
+Zebra   what do zebras eat?   They feed mainly on grasses but will also eat shrubs , herbs , twigs , leaves and bark .    Found in wh_questions
+Zebra   what are zebras hunted for?   Zebras were , and still are , hunted mainly for their skins .    Found in wh_questions -> Best possible
+Zebra   what areas do the grevy's zebras inhabit?   Unlike the other zebra species, grevy's zebras do not have permanent social bonds.    Found in wh_questions -> Possible Wrong
+Zebra   which species of zebra is known as the common zebra?   It , or particular subspecies of it , have also been known as the common zebra , the dauw , burchell 's zebra -lrb- actually the subspecies equus quagga burchellii -rrb- , chapman 's zebra , wahlberg 's zebra , selous ' zebra , grant 's zebra , boehm 's zebra and the quagga -lrb- another extinct subspecies , equus quagga quagga -rrb- .    Found in wh_questions -> Best possible
+Zebra   at what age can a zebra breed?   Attempts to breed a grévy's zebra stallion to mountain zebra mares resulted in a high rate of miscarriage.    Found in wh_questions -> Possible Wrong

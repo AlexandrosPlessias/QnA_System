@@ -1,0 +1,5 @@
+Zebra's article sentences: 139
+Zebra's article questions: 9
+Zebra's article questions with answer: 9
+Zebra's correct answers: 6
+For this article Zebra the score (correct/all_number) is: 66.67%

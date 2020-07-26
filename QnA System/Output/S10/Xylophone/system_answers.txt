@@ -1,0 +1,19 @@
+ArticleTitle    Question    Answer    Answer'sComment    
+Xylophone   are concert xylophonese typically 3 1/2 or 4 octaves?   No    Not concert xylophonese typically 3 1/2 or 4 octaves.
+Xylophone   is folk music associated with western europe?   No    Not folk music associated with western europe.
+Xylophone   were xylophonists featured in the theatre in the 20th century?   No    Not xylophonists featured in the theatre in the 20th century.
+Xylophone   what year were the first xylophone artifacts found?   Xylophone can refer to western style concert xylophones or to one of the many wooden mallet percussion instruments found around the world .    Found in wh_questions
+Xylophone   the modern western-style xylophone has bars made of what material?   The modern western-style xylophone has bars made of rosewood or more commonly , kelon , an extremely durable fiberglass that allows a louder sound at the expense of tone quality .    Found in wh_questions -> Best possible
+Xylophone   the xylophone has been known in what country since the middle ages?   Had been known in europe since the middle ages    Found in wh_questions -> Best possible
+Xylophone   what instrument was produced after the xylophone in the 1920s?   The gourds generated the resonating notes that are produced on modern instruments by metal tubes    Found in wh_questions -> Best possible
+Xylophone   in central and south america, what instrument was the xylophone changed into?   It evolved in central and south america into the marimba.    Found in wh_questions -> Possible Wrong
+Xylophone   the word xylophone is derived from two greek words: xylon and phone. what do these words mean?   Xylophone    the xylophone (from the greek words ξύλον -  xylon, "wood" + φωνή - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in indonesia.    Found in wh_questions -> Possible Wrong
+Xylophone   is the xylophone a musical instrument?   Yes    The xylophone a musical instrument.
+Xylophone   was the xylophone associated with the folk music of the united states by the 19th century?   No    Not the xylophone associated with the folk music of the united states by the 19th century.
+Xylophone   was it likely that the xylophone reached europe during the crusades?   Yes    It likely that the xylophone reached europe during the crusades.
+Xylophone   the xylophone is an instrument from what family?   Xylophone    the xylophone (from the greek words ξύλον -  xylon, "wood" + φωνή - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in indonesia.    Found in wh_questions -> Possible Wrong
+Xylophone   how do the java and bali use xylophones?   Java and bali use xylophones (called gambang) in gamelan ensembles.    Found in wh_questions -> Possible Wrong
+Xylophone   some versions of xylophones have resonators made of what?   Some versions have resonators made of gourds .    Found in wh_questions -> Best possible
+Xylophone   which came first, the xylophone or the vibraphone?   The xylophone, which had been known in europe since the middle ages, was by the 19th century associated largely with the folk music of eastern europe, notably poland and eastern germany.    Found in wh_questions -> Possible Wrong
+Xylophone   did the golden age of xylophones come before or after the first usage of the european-derived orchestral?   No    Not the golden age of xylophones come before or after the first usage of the european-derived orchestral.
+Xylophone   does kelon increase or decrease tone quality of the xylophone?   No    Not kelon increase or decrease tone quality of the xylophone.

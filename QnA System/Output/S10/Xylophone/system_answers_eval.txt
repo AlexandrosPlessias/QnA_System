@@ -1,0 +1,5 @@
+Xylophone's article sentences: 44
+Xylophone's article questions: 18
+Xylophone's article questions with answer: 9
+Xylophone's correct answers: 8
+For this article Xylophone the score (correct/all_number) is: 88.89%
