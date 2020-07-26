@@ -1,0 +1,1 @@
+I USE stanford-corenlp-full-2018-10-05 version 3.9.2 you can DOWNLOAD IT FROM HERE: https://stanfordnlp.github.io/CoreNLP/history.html
