@@ -5,6 +5,3 @@
 
 ## Programming work description 
 In this work we will study the construction of a system of answering questions, question answering systems have always been a major branch of AI and NLP. My system takes a text file and questions (closed and open type) as an input, and returns answers to questions as a result and a percentage of accuracy – success, if the correct answers are given along with the questions. First, I divide the questions into classes and apply a specific answer algorithm for each question according to the category. At postgraduate work I used Python, NLP technologies and linguistic - grammatical rules. Finally, several tests and analyzes were performed in 97 articles - text files and 1910 questions, the user has the possibility to test the system on his own data. The user interface is made using a window environment.
-
-Keywords: question-answering system, closed-ended questions, open-ended questions, binary questions, affirmative questions, negative questions, linguistics, NER, NPL, CoreNLP.
-
